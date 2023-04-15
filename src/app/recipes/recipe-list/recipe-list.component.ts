@@ -15,7 +15,7 @@ export class RecipeListComponent {
       'https://www.averiecooks.com/wp-content/uploads/2021/01/garlicbutterchicken-5.jpg'
     ),
     new Recipe(
-      'A test recipe',
+      'Another test recipe',
       'This is simply a test',
       'https://www.averiecooks.com/wp-content/uploads/2021/01/garlicbutterchicken-5.jpg'
     ),
